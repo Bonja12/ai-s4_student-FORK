@@ -3,21 +3,35 @@
 
 [comment]: # (Instructie: vul onderstaande velden in. 'Peilmoment' is peilmoment 1, peilmoment 2 of beoordelingsmoment.)
 
-* **Studentnummer**:
-* **Naam**:
-* **Peilmoment**:
-* **Datum**:
+* **Studentnummer**: 1877188
+* **Naam**: Chris van Veen
+* **Peilmoment**: 1
+* **Datum**: 23/03/2026
 
 
 
 ## Inleiding
 
-[comment]: # (Instructie: beschrijf in circa 200 woorden je ontwikkeling in de afgelopen periode. Geef in ieder geval antwoord op de volgende vragen: 1. wat ging er goed in afgelopen periode; 2. wat kon er beter in afgelopen periode; 3. wat ga je komende periode vasthouden en/of verbeteren. Wees zo concreet mogelijk en geef voorbeelden.)
+[comment]: # (Instructie: beschrijf in circa 200 woorden je ontwikkeling in de afgelopen periode. 
+Geef in ieder geval antwoord op de volgende vragen: 
+1. wat ging er goed in afgelopen periode; 
+2. wat kon er beter in afgelopen periode; 
+3. wat ga je komende periode vasthouden en/of verbeteren. Wees zo concreet mogelijk en geef voorbeelden.)
 
 #### Peilmoment 1
 
 [comment]: # (Zelfevaluatie peilmoment 1)
+Ik vond een aantal dingen goed gaan deze periode. Als eerst was ik bij bijna alle lessen aanwezig, tijdens deze lessen deed ik actief mee en stelde vragen.
+Alle opdrachten heb ik op tijd ingeleverd. In die opdrachten heb ik me best gedaan om netjes te beschrijven wat elk stukje code doet zodat het voor andere mensen een beetje te begrijpen is
 
+er zijn twee dingen die beter kunnen. Als eerst had ik bij het trainen van een model een mega lage scoren, 
+hier dacht ik op dat moment niet zo veel over maar ik had juist moeten uitzoeken waarom die score zo laag was. Als ik dat wel had gedaan had ik achter de gemaakte fout gekomen en een werkend model gehad.
+Kort gezegd moet ik kritisch naar me werk kijken. 
+Als tweede heb ik verkeerd gebruik gemaakt van een LLM, Ik heb bij een opdracht het werk door een LLM laten doen ipv het zelf te doen of de LLM als tool te gebruiken. 
+Hierdoor kon ik vragen over het gemaakte werk niet beantwoorden. Dus hoe ik LLM's gebruik kan beter
+
+Ik blijf bij zo veel mogelijk lessen aanwezig, in die lessen zal ik actief mee blijven doen en zal ik de opdrachten optijd blijven inleveren. 
+Ik me leesbaarheid van me code proberen te verbeteren door er duidelijke comments bij te zetten, dit zal ik bij relevante functies doen.
 ---
 
 #### Peilmoment 2
@@ -160,7 +174,9 @@
 #### Peilmoment 1
 
 [comment]: # (Portfolio-items peilmoment 1)
-
+* [LA-II](https://canvas.hu.nl/courses/50035/assignments/396454/submissions/349573)
+    * In dit portfolio item heb ik laten zien dat ik begrijp hoe ik dimensionaliteitsreductie kan toepassen 
+  
 ---
 
 #### Peilmoment 2
@@ -181,9 +197,18 @@
 #### Peilmoment 1
 
 [comment]: # (Portfolio-items peilmoment 1)
-
+* [LA-I](https://canvas.hu.nl/courses/50035/assignments/396455/submissions/349573)
+    * In dit portfolio item heb ik laten zien dat ik overweg kan met vectorberekeningen, door alle opdrachten correct te maken.
+  
 ---
-
+* [NN-I]( https://canvas.hu.nl/courses/50035/assignments/396466/submissions/349573)
+    * In dit portfolio item heb ik laten zien dit ik begrijp hoe een perceptron netwerk in elkaar zit en ik in staat ben om dit zelf te programmeren.
+  
+---
+* [NN-II](https://canvas.hu.nl/courses/50035/assignments/396465)
+    * In dit portfolio item heb ik laten zien dit ik begrijp hoe een neuraal netwerk in elkaar zit. 
+  
+---
 #### Peilmoment 2
 
 [comment]: # (Portfolio-items peilmoment 2)
