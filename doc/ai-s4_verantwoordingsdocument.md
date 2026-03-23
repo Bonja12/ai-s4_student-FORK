@@ -12,7 +12,7 @@
 
 ## Inleiding
 
-[comment]: # (Instructie: beschrijf in circa 200 woorden je ontwikkeling in de afgelopen periode. 
+[comment]: # (Instructie: beschrijf in circa 200 woorden je ontwikkeling in de afgelopen periode. )
 Geef in ieder geval antwoord op de volgende vragen: 
 1. wat ging er goed in afgelopen periode; 
 2. wat kon er beter in afgelopen periode; 
@@ -198,17 +198,19 @@ Ik me leesbaarheid van me code proberen te verbeteren door er duidelijke comment
 
 [comment]: # (Portfolio-items peilmoment 1)
 * [LA-I](https://canvas.hu.nl/courses/50035/assignments/396455/submissions/349573)
-    * In dit portfolio item heb ik laten zien dat ik overweg kan met vectorberekeningen, door alle opdrachten correct te maken.
+    * In dit portfolio item heb ik laten zien dat ik overweg kan met vectorberekeningen, door alle opdrachten correct te maken
   
 ---
+  
 * [NN-I]( https://canvas.hu.nl/courses/50035/assignments/396466/submissions/349573)
-    * In dit portfolio item heb ik laten zien dit ik begrijp hoe een perceptron netwerk in elkaar zit en ik in staat ben om dit zelf te programmeren.
-  
+    * In dit portfolio item heb ik laten zien dit ik begrijp hoe een perceptron netwerk in elkaar zit en ik in staat ben om dit zelf te programmeren
+
 ---
+
 * [NN-II](https://canvas.hu.nl/courses/50035/assignments/396465/submissions/349573)
-    * In dit portfolio item heb ik laten zien dit ik begrijp hoe een neuraal netwerk in elkaar zit door er zelf een te maken.
+    * In dit portfolio item heb ik laten zien dit ik begrijp hoe een neuraal netwerk in elkaar zit door er zelf een te maken
   
----
+
 #### Peilmoment 2
 
 [comment]: # (Portfolio-items peilmoment 2)
@@ -267,7 +269,7 @@ Ik me leesbaarheid van me code proberen te verbeteren door er duidelijke comment
 
 
 ### 10 - Deployment & optimalisatie
-
+§
 > De student analyseert de efficiëntie van een deep learning model, realiseert de deployment ervan en adviseert over optimalisatie en beheer.
 
 #### Peilmoment 1
@@ -294,6 +296,9 @@ Ik me leesbaarheid van me code proberen te verbeteren door er duidelijke comment
 > Attitudes: onderzoekend, zelfsturend, kritisch, grondig en abstract analytisch
 
 [comment]: # (Beschrijving attitudes peilmoment 1)
+Met LA-I en NN-I heb ik laten zien dat ik grondig aan het werk kan. 
+Bij beide opdrachten was het van belang dat er geen slordige fouten gemaakt werken, anders zou er verder op in de opdracht van alles fout gan
+
 
 ---
 
