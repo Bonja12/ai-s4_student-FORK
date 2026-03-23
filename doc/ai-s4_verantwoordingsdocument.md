@@ -205,8 +205,8 @@ Ik me leesbaarheid van me code proberen te verbeteren door er duidelijke comment
     * In dit portfolio item heb ik laten zien dit ik begrijp hoe een perceptron netwerk in elkaar zit en ik in staat ben om dit zelf te programmeren.
   
 ---
-* [NN-II](https://canvas.hu.nl/courses/50035/assignments/396465)
-    * In dit portfolio item heb ik laten zien dit ik begrijp hoe een neuraal netwerk in elkaar zit. 
+* [NN-II](https://canvas.hu.nl/courses/50035/assignments/396465/submissions/349573)
+    * In dit portfolio item heb ik laten zien dit ik begrijp hoe een neuraal netwerk in elkaar zit door er zelf een te maken.
   
 ---
 #### Peilmoment 2
@@ -227,7 +227,9 @@ Ik me leesbaarheid van me code proberen te verbeteren door er duidelijke comment
 #### Peilmoment 1
 
 [comment]: # (Portfolio-items peilmoment 1)
-
+* [NN-II](https://canvas.hu.nl/courses/50035/assignments/396465/submissions/349573)
+    * In dit portfolio item heb ik een neuraal netwerk gemaakt aan de hand van wat eisen.
+  
 ---
 
 #### Peilmoment 2
@@ -248,7 +250,9 @@ Ik me leesbaarheid van me code proberen te verbeteren door er duidelijke comment
 #### Peilmoment 1
 
 [comment]: # (Portfolio-items peilmoment 1)
-
+* [NN-II](https://canvas.hu.nl/courses/50035/assignments/396465/submissions/349573)
+    * In dit portfolio item heb ik een kleine analyse over de gevonden resultaten van het model met en zonder pca gemaakt
+  
 ---
 
 #### Peilmoment 2
